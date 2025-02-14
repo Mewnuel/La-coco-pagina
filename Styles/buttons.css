@@ -1,9 +1,0 @@
- .Introduction{color:black; font: 8px; } 
-            .ATC{background-color:yellow; border:none; height:20px; width:120px; border-radius:10px; opacity:0.6; transition:1s }
-            .BN{background-color:orange; border:none; height:20px; width:120px; border-radius:10px; opacity:0.6; transition:1s; }
-            .ATC:hover{opacity:1}
-            .BN:hover{opacity:1}
-            .ATC:active{background-color:yellowgreen}
-            .BN:active{background-color:orangered}
-            .Rabbit{color:green; font: 5px}
-            .Sako{font:5px}

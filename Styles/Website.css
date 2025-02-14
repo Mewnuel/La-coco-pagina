@@ -1,5 +1,0 @@
-.Coco-button{background-color:yellow; border-color:lightblue; height:25px; width:180px; cursor:pointer; box-shadow:2px 0px 2px black; transition:1s, color 1s}
-.Coco-button:hover{ opacity:0.8; background-color:Black; color:yellow; } 
-.Hater-button{background-color:rgb(156, 5, 5); border-color:purple; cursor:pointer; box-shadow:2px 0px 2px; transition:1s, color 1s }
-.Hater-button:hover{opacity:0.8; background-color:Black; color:red; }
-.SC1{color:red;}
